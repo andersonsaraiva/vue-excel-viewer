@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "menu by group",
+    "parentName": "apply permissions by groups",
+    "grandParentName": "apply permissions",
+    "groups": [
+      {
+        "id": 1,
+        "name": "admin",
+        "permission": false
+      },
+      {
+        "id": 2,
+        "name": "collaborator",
+        "permission": false
+      },
+      {
+        "id": 3,
+        "name": "homologator",
+        "permission": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "menu by users",
+    "parentName": "apply permissions by users",
+    "grandParentName": "apply permissions",
+    "groups": [
+      {
+        "id": 1,
+        "name": "admin",
+        "permission": false
+      },
+      {
+        "id": 2,
+        "name": "collaborator",
+        "permission": false
+      },
+      {
+        "id": 3,
+        "name": "homologator",
+        "permission": false
+      }
+    ]
+  }
+]
